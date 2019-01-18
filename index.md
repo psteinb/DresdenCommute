@@ -3,6 +3,9 @@
 Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 2017 jährlich durchführt:
 
 - [commute-challenge-2017](https://randomascii.wordpress.com/2017/05/01/commute-challenge-2017/)
+
+![](https://randomascii.files.wordpress.com/2017/05/image_thumb.png?w=348&h=344&zoom=2)
+
 - [commute-challenge-2018](https://randomascii.wordpress.com/2018/08/26/commute-challenge-2018/)
 
 Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Eine [europäische Woche der Mobilität](http://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/klimaschutz/mobilitaetswoche.php) in Punkto Verkehrswende ist mir schlicht zu wenig. 
