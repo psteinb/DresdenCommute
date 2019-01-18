@@ -1,15 +1,16 @@
-Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 live! 
-
-# Die Idee
-
-> 20 Arbeitstage - 20 Arten auf Arbeit zu kommen!
+# Die Idee : 20 Arbeitstage - 20 Arten auf Arbeit zu kommen!
 
 Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 2017 jährlich durchführt:
 
-- https://randomascii.wordpress.com/2017/05/01/commute-challenge-2017/
-- https://randomascii.wordpress.com/2018/08/26/commute-challenge-2018/
+- [commute-challenge-2017](https://randomascii.wordpress.com/2017/05/01/commute-challenge-2017/)
+- [commute-challenge-2018](https://randomascii.wordpress.com/2018/08/26/commute-challenge-2018/)
 
-Das Ziel der Aktion ist Menschen zu zeigen, wie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit leisten können. Eine [europäische Woche der Mobilität](http://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/klimaschutz/mobilitaetswoche.php) in Punkto Verkehrswende ist mir schlicht zu wenig. 
+Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Eine [europäische Woche der Mobilität](http://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/klimaschutz/mobilitaetswoche.php) in Punkto Verkehrswende ist mir schlicht zu wenig. 
+
+# Interesse?
+
+Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 live und wird auf dieser [Webseite](https://psteinb.github.io/DresdenCommute/) und auf Twitter unter [@dresdencommute](https://twitter.com/dresdencommute) begleitet.
+
 
 # Studien zeigen
 
