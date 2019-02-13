@@ -14,6 +14,11 @@ Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zu
 
 Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 live und wird auf dieser [Webseite](https://psteinb.github.io/DresdenCommute/) und auf Twitter unter [@dresdencommute](https://twitter.com/dresdencommute) begleitet.
 
+# Sponsoren
+
+Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstützen:
+
+- [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/)
 
 # Studien zeigen
 
