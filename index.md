@@ -8,7 +8,7 @@ Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 201
 
 - [commute-challenge-2018](https://randomascii.wordpress.com/2018/08/26/commute-challenge-2018/)
 
-Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Eine [europäische Woche der Mobilität](http://www.dresden.de/de/stadtraum/umwelt/umwelt/klima-und-energie/klimaschutz/mobilitaetswoche.php) in Punkto Verkehrswende ist mir schlicht zu wenig. 
+Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Anstatt zu fordern und zu hoffen, dass Entschiedungsprozesse in zumeist klimaunfreundlichen Fraktioen zeitnah zu Gunsten von Umwelt und Bürgern umschlagen, will ich konstruktiv etwas tun. Die Zukunft ist jetzt - wir sollten Sie gestalten. 
 
 # Interesse?
 
@@ -19,10 +19,12 @@ Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 li
 Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstützen:
 
 - [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/)
+- [Little John Bikes Dresden-Löbtau](https://www.littlejohnbikes.de/filialen/dresden-loebtau.html)
+- [@happyfocus](https://twitter.com/happifocus) for die Leihgabe eines [bastlboards](https://www.bastlboards.com/)
 
 # Studien zeigen
 
-... dass es profunde Hinweise, wie sich ein langer Weg auf Arbeit auf uns Menschen auswirkt:
+... dass es profunde Hinweise darauf gibt, wie sich ein langer Weg auf Arbeit auf uns Menschen auswirkt:
 
 - Ein längerer Arbeitsweg senkt die Zufriedenheit durch ein höheres Gefühl des Zeitdrucks, [link](https://uwaterloo.ca/recreation-and-leisure-studies/crunched-time-commuting-linked-lower-life-satisfaction)
 
