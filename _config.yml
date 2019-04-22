@@ -1,1 +1,49 @@
-theme: jekyll-theme-minimal
+#theme: minimal-mistakes-theme
+remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+title: "Dresden Commute Challenge"
+locale: "de"
+name: "Peter Steinbach"
+
+description: "Online Dokumentation meiner Commute Challenge - durch gutes und schlechtes Beispiel den Verkehr von heute verändern"
+url: "https://psteinb.github.io/DresdenCommute"
+repository: "psteinb/DresdenCommute"
+
+# teaser: /assets/images/
+logo: "/assets/images/logo-88x.png"
+
+twitter:
+  username: "DresdenCommute"
+
+author:
+  name: "Dresden Commute Challenge"
+  avatar: "/assets/images/dresden-commute.png"
+  bio: "Meine erste Commute Challenge findet 2019 statt."
+  location: "Dresden, Sachsen, Deutschland"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DresdenCommute"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/DresdenCommute"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+paginate: 5
+timezone: Europe/Berlin
+exclude:
+  - vendor
+  - bundle
