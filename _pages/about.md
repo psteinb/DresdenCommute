@@ -1,3 +1,8 @@
+---
+permalink: /about/
+title: "About"
+---
+
 # Die Idee : 20 Arbeitstage - 20 Arten auf Arbeit zu kommen!
 
 Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 2017 jährlich durchführt:
@@ -33,3 +38,5 @@ Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstütz
 - Langes Commuten hat Konsequenzen für die Gesundheit, [link](https://www.womenshealthmag.com/health/a19945469/commuting/)
 
 - Ein kürzerer Weg zur Arbeit macht so glücklich, wie eine Loherhöhung von $ 40,000, [link](https://www.npr.org/2011/10/19/141514467/small-changes-can-help-you-thrive-happily) (leider ohne statistische Datenbasis)
+
+Diese Seite wird von Peter Steinbach (twitter: [@psteinb_](https://twitter.com/psteinb_), github: [psteinb](https://github.com/psteinb/)) administriert und gefüllt. 

@@ -1,5 +1,41 @@
-#theme: minimal-mistakes-theme
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+# config file adopted from
+# https://github.com/mmistakes/mm-github-pages-starter/blob/master/_config.yml
+
+# Build settings
+markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+minimal_mistakes_skin: default
+search: true
+
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+#theme: minimal-mistakes-theme
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
 title: "Dresden Commute Challenge"
 locale: "de"
 name: "Peter Steinbach"
@@ -15,9 +51,9 @@ twitter:
   username: "DresdenCommute"
 
 author:
-  name: "Dresden Commute Challenge"
-  avatar: "/assets/images/dresden-commute.png"
-  bio: "Meine erste Commute Challenge findet 2019 statt."
+  name: "Meine erste Commute Challenge findet 2019 statt."
+#  avatar: "/assets/images/dresden-commute.png"
+  bio: "Am 2.5. steigt das grosse Abenteuer."
   location: "Dresden, Sachsen, Deutschland"
   links:
     - label: "Twitter"
@@ -30,6 +66,12 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/DresdenCommute"
 
+include:
+  - _pages
+
+timezone: Europe/Berlin
+
+
 defaults:
   # _posts
   - scope:
@@ -37,13 +79,29 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
+      author_profile: false
       read_time: true
       comments: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
 
-#paginate: 5
-timezone: Europe/Berlin
-exclude:
-  - vendor
-  - bundle
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
