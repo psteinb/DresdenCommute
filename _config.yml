@@ -42,7 +42,7 @@ defaults:
       share: true
       related: true
 
-paginate: 5
+#paginate: 5
 timezone: Europe/Berlin
 exclude:
   - vendor
