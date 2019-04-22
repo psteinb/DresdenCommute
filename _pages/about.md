@@ -1,9 +1,7 @@
 ---
 permalink: /about/
-title: "About"
+title: "Warum ... 20 Arbeitstage - 20 Arten auf Arbeit zu kommen!"
 ---
-
-# Die Idee : 20 Arbeitstage - 20 Arten auf Arbeit zu kommen!
 
 Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 2017 jährlich durchführt:
 
@@ -14,18 +12,6 @@ Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 201
 - [commute-challenge-2018](https://randomascii.wordpress.com/2018/08/26/commute-challenge-2018/)
 
 Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Anstatt zu fordern und zu hoffen, dass Entschiedungsprozesse in zumeist klimaunfreundlichen Fraktioen zeitnah zu Gunsten von Umwelt und Bürgern umschlagen, will ich konstruktiv etwas tun. Die Zukunft ist jetzt - wir sollten Sie gestalten. 
-
-# Interesse?
-
-Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 live und wird auf dieser [Webseite](https://psteinb.github.io/DresdenCommute/) und auf Twitter unter [@dresdencommute](https://twitter.com/dresdencommute) begleitet.
-
-# Sponsoren
-
-Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstützen:
-
-- [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/)
-- [Little John Bikes Dresden-Löbtau](https://www.littlejohnbikes.de/filialen/dresden-loebtau.html)
-- [@happyfocus](https://twitter.com/happifocus) for die Leihgabe eines [bastlboards](https://www.bastlboards.com/)
 
 # Studien zeigen
 
