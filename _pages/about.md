@@ -11,7 +11,7 @@ Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 201
 
 - [commute-challenge-2018](https://randomascii.wordpress.com/2018/08/26/commute-challenge-2018/)
 
-Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Anstatt zu fordern und zu hoffen, dass Entschiedungsprozesse in zumeist klimaunfreundlichen Fraktioen zeitnah zu Gunsten von Umwelt und Bürgern umschlagen, will ich konstruktiv etwas tun. Die Zukunft ist jetzt - wir sollten Sie gestalten. 
+Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Anstatt zu fordern und zu hoffen, dass Entscheidungsprozesse in zumeist klimaunfreundlichen Entscheidungsgremien zeitnah zu Gunsten von Umwelt und Bürgern umschlagen, will ich konstruktiv etwas tun. Die Zukunft ist jetzt - wir sollten Sie gestalten. 
 
 # Studien zeigen
 
