@@ -13,11 +13,13 @@ Ich will Menschen zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und 
 
 Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstützen:
 
-- [Scionics Computer Innovation GmbH](https://scionics.de), mein phänomenaler Arbeitgeber, der mich hierbei unterstützt 
-- [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/) für die Leihgabe von 2 Handbikes 
-- [Little John Bikes Dresden-Löbtau](https://www.littlejohnbikes.de/filialen/dresden-loebtau.html) für die Leihgabe eines E-Bike
+- [Scionics Computer Innovation GmbH](https://scionics.de) ist mein phänomenaler Arbeitgeber, der mich hierbei unterstützt! Danke.
+- [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/) 
+- [Little John Bikes Dresden-Löbtau](https://www.littlejohnbikes.de/filialen/dresden-loebtau.html) 
 - [@happyfocus](https://twitter.com/happifocus) für die Leihgabe eines [bastlboards](https://www.bastlboards.com/)
-- [ADFC Dresden](https://www.adfc-dresden.de/) für die Leihgabe eines Tandems
+- [ADFC Dresden](https://www.adfc-dresden.de/) 
 
-Sie haben noch ein Vehikel mit dem man 10km Arbeitsweg in unter 1 Stunde bezwingen kann, dann melden Sie sich bitte bei mir. Ich suche immer nach neuen Commutes!
+**Sie haben noch ein Vehikel mit dem man 10km Arbeitsweg in unter 1
+Stunde bezwingen kann, dann melden Sie sich bitte bei mir. Ich suche
+immer nach neuen Commutes!**
 
