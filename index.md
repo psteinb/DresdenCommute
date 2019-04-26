@@ -1,35 +1,25 @@
-# Die Idee : 20 Arbeitstage - 20 Arten auf Arbeit zu kommen!
+---
+layout: home
+author_profile: false
+---
 
-Motiviert hat mich Bruce Dawson mit seiner Commute Challenge, welche er seit 2017 jährlich durchführt:
+Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 live! Sie wird auf dieser [Webseite](https://psteinb.github.io/DresdenCommute/) und auf Twitter unter [@dresdencommute](https://twitter.com/dresdencommute) begleitet.
 
-- [commute-challenge-2017](https://randomascii.wordpress.com/2017/05/01/commute-challenge-2017/)
+## Ziele
 
-![](https://randomascii.files.wordpress.com/2017/05/image_thumb.png?w=348&h=344&zoom=2)
+Ich will Menschen zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Anstatt zu fordern und zu hoffen, dass recht Entschiedungsprozesse in einer zumeist klimaunfreundlichen Gesellschaft zeitnah zu Gunsten von Umwelt und Bürgern umschlagen, will ich konstruktiv etwas tun. Die Zukunft ist jetzt - wir sollten Sie gestalten. 
 
-- [commute-challenge-2018](https://randomascii.wordpress.com/2018/08/26/commute-challenge-2018/)
-
-Das Ziel der Aktion ist Menschen zu zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Anstatt zu fordern und zu hoffen, dass Entschiedungsprozesse in zumeist klimaunfreundlichen Fraktioen zeitnah zu Gunsten von Umwelt und Bürgern umschlagen, will ich konstruktiv etwas tun. Die Zukunft ist jetzt - wir sollten Sie gestalten. 
-
-# Interesse?
-
-Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 live und wird auf dieser [Webseite](https://psteinb.github.io/DresdenCommute/) und auf Twitter unter [@dresdencommute](https://twitter.com/dresdencommute) begleitet.
-
-# Sponsoren
+## Sponsoren
 
 Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstützen:
 
-- [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/)
-- [Little John Bikes Dresden-Löbtau](https://www.littlejohnbikes.de/filialen/dresden-loebtau.html)
-- [@happyfocus](https://twitter.com/happifocus) for die Leihgabe eines [bastlboards](https://www.bastlboards.com/)
+- [Scionics Computer Innovation GmbH](https://scionics.de) ist mein phänomenaler Arbeitgeber, der mich hierbei unterstützt! Danke.
+- [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/) 
+- [Little John Bikes Dresden-Löbtau](https://www.littlejohnbikes.de/filialen/dresden-loebtau.html) 
+- [@happyfocus](https://twitter.com/happifocus) für die Leihgabe eines [bastlboards](https://www.bastlboards.com/)
+- [ADFC Dresden](https://www.adfc-dresden.de/) 
 
-# Studien zeigen
+**Sie haben noch ein Vehikel mit dem man 10km Arbeitsweg in unter 1
+Stunde bezwingen kann, dann melden Sie sich bitte bei mir. Ich suche
+immer nach neuen Commutes!**
 
-... dass es profunde Hinweise darauf gibt, wie sich ein langer Weg auf Arbeit auf uns Menschen auswirkt:
-
-- Ein längerer Arbeitsweg senkt die Zufriedenheit durch ein höheres Gefühl des Zeitdrucks, [link](https://uwaterloo.ca/recreation-and-leisure-studies/crunched-time-commuting-linked-lower-life-satisfaction)
-
-- Langes Commuten senkt die soziale Aktivität und verringert das Vertrauen in die soziale Umgebung, [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4509867/)
-
-- Langes Commuten hat Konsequenzen für die Gesundheit, [link](https://www.womenshealthmag.com/health/a19945469/commuting/)
-
-- Ein kürzerer Weg zur Arbeit macht so glücklich, wie eine Loherhöhung von $ 40,000, [link](https://www.npr.org/2011/10/19/141514467/small-changes-can-help-you-thrive-happily) (leider ohne statistische Datenbasis)
