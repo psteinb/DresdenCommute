@@ -1,5 +1,5 @@
 ---
-title:  "Allein Zu Hause"
+title:  "Tag 2 allein zu Hause"
 classes: wide
 ---
 
