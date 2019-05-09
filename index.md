@@ -26,3 +26,6 @@ Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstütz
 Stunde bezwingen kann, dann melden Sie sich bitte bei mir. Ich suche
 immer nach neuen Commutes!**
 
+## Presse und Medien
+
+- 3. Mai 2019, [Mit Kanu und Skateboard zur Arbeit](https://www.saechsische.de/plus/mit-kanu-und-skateboard-zur-arbeit-5065740.html), Sächsische Zeitung, Frau Laske
