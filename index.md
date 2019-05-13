@@ -9,7 +9,7 @@ Die [Dresden Commute Challenge](https://twitter.com/dresdencommute) geht 2019 li
 
 Ich will Menschen zeigen, wie Sie schon heute Ihren Beitrag zum Klimaschutz und zu Ihrer eigenen Gesundheit und Zufriedenheit leisten können. Anstatt zu fordern und zu hoffen, dass politische Entscheidungsprozesse zeitnah zu Gunsten von Umwelt und damit uns Bürgern umschlagen, will ich konstruktiv etwas tun. Die Zukunft ist jetzt - wir sollten Sie gestalten.
 
-Mehr Details źu meiner Motiviation und dem Vorbild für die Aktion, werden in [Warum?!](/about/) erklärt. 
+Mehr Details źu meiner Motiviation und dem Vorbild für die Aktion, werden in [Warum?!](DresdenCommute/about/) erklärt. 
 
 ## Sponsoren und Unterstützer
 
