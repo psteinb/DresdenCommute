@@ -13,11 +13,14 @@ Mehr Details zu meiner Motiviation und dem Vorbild für die Aktion, werden in [W
 
 ## Sponsoren und Unterstützer
 
-Ich bin sehr glücklich, dass mich folgende Unternehmen und Personen unterstützen:
+Ich bin sehr glücklich, dass mich folgende Unternehmen, Gruppen oder Personen unterstützen:
 
+- Meine Frau und meine Kinder! Sie mussten über die 4 Wochen meine Trainingsstunden und Ausflüge zu neuen Vehikeln aushalten. Lieben Dank!
 - [Scionics Computer Innovation GmbH](https://scionics.de) ist mein phänomenaler Arbeitgeber, der mich hierbei unterstützt! Danke.
+
 - [REHABILITY Reha-Fachhandel GmbH](http://www.rehability.de/ueber-uns/standorte/rehability-dresden/) 
 - [Saturn Dresden-Altmarkgalerie](https://www.saturn.de/markt/dresden/dresden)
+- [Elberad](https://elberad.com/)
 - [Little John Bikes Dresden-Löbtau](https://www.littlejohnbikes.de/filialen/dresden-loebtau.html) 
 - [@happyfocus](https://twitter.com/happifocus) für die Leihgabe eines [bastlboards](https://www.bastlboards.com/)
 - [ADFC Dresden](https://www.adfc-dresden.de/) 
